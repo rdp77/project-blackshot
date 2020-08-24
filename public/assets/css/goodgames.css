@@ -5078,6 +5078,22 @@ img.rounded {
     background-color: #f00;
 }
 
+.nk-social-links > li > *.nk-social-discord:hover,
+.nk-social-links > li > *.nk-social-discord.hover,
+.nk-social-links.nk-social-links-3 > li > *.nk-social-discord:hover,
+.nk-social-links.nk-social-links-3 > li > *.nk-social-discord.hover,
+.nk-social-links-2 > li > *.nk-social-discord:hover,
+.nk-social-links-2 > li > *.nk-social-discord.hover,
+.nk-social-links-2.nk-social-links-3 > li > *.nk-social-discord:hover,
+.nk-social-links-2.nk-social-links-3 > li > *.nk-social-discord.hover,
+.nk-social-links-3 > li > *.nk-social-discord:hover,
+.nk-social-links-3 > li > *.nk-social-discord.hover,
+.nk-social-links-3.nk-social-links-3 > li > *.nk-social-discord:hover,
+.nk-social-links-3.nk-social-links-3 > li > *.nk-social-discord.hover {
+    color: #fff;
+    background-color: #7289d9;
+}
+
 .nk-social-links-2 {
     margin-right: -4px;
     margin-left: -4px;
@@ -8664,8 +8680,8 @@ div.nk-error {
 
 .nk-news-box .nk-news-box-list,
 .nk-news-box .nk-news-box-each-info {
-    float: left;
-    width: 50%;
+    float: none;
+    width: 100%;
     height: 100%;
 }
 
@@ -8834,7 +8850,7 @@ div.nk-error {
 
 @media (max-width: 767px) {
     .nk-news-box {
-        height: 720px;
+        height: 100%;
     }
     .nk-news-box .nk-news-box-list,
     .nk-news-box .nk-news-box-each-info {
