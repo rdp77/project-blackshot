@@ -7,7 +7,8 @@
                 <img src="assets/images/icon-mouse.png" alt="">
             </div>
             <div class="nk-feature-cont">
-                <h3 class="nk-feature-title"><a href="#">Daftar</a></h3>
+                <h3 class="nk-feature-title"><a data-toggle="modal" data-target="#modalRegister"
+                        style="cursor: pointer">Daftar</a></h3>
             </div>
         </div>
     </div>
@@ -17,7 +18,7 @@
                 <img src="assets/images/icon-gamepad.png" alt="">
             </div>
             <div class="nk-feature-cont">
-                <h3 class="nk-feature-title"><a href="#">Download</a></h3>
+                <h3 class="nk-feature-title"><a href="{{ route('download') }}">Download</a></h3>
             </div>
         </div>
     </div>
@@ -27,7 +28,7 @@
                 <img src="assets/images/icon-gamepad-2.png" alt="">
             </div>
             <div class="nk-feature-cont">
-                <h3 class="nk-feature-title"><a href="#">Donasi</a></h3>
+                <h3 class="nk-feature-title"><a href="{{ route('donasi') }}">Donasi</a></h3>
             </div>
         </div>
     </div>

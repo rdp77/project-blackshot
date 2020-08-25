@@ -24,3 +24,15 @@ Route::get('/ranking-player', function () {
 Route::get('/ranking-clan', function () {
     return view('pages.ranking-clan');
 })->name('rankingclan');
+
+Route::get('/download', function () {
+    return view('pages.download');
+})->name('download');
+
+Route::get('/donasi', function () {
+    return view('pages.donation');
+})->name('donasi');
+
+Auth::routes();
+
+Route::get('/dashboard', 'HomeController@index')->name('dashboard');
