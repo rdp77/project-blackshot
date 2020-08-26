@@ -1,4 +1,4 @@
-@extends('errors::minimal')
+@extends('layouts.errors')
 
 @section('title', __('Unauthorized'))
 @section('code', '401')
