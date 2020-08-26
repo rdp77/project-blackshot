@@ -36,3 +36,7 @@ Route::get('/donasi', function () {
 Auth::routes();
 
 Route::get('/dashboard', 'HomeController@index')->name('dashboard');
+
+Route::get('register', function () {
+    return redirect('/');
+});

@@ -4,7 +4,7 @@
     <div class="col-lg-4">
         <div class="nk-feature-1">
             <div class="nk-feature-icon">
-                <img src="assets/images/icon-mouse.png" alt="">
+                <i class="fas fa-user-plus"></i>
             </div>
             <div class="nk-feature-cont">
                 <h3 class="nk-feature-title"><a data-toggle="modal" data-target="#modalRegister"
@@ -15,7 +15,7 @@
     <div class="col-lg-4">
         <div class="nk-feature-1">
             <div class="nk-feature-icon">
-                <img src="assets/images/icon-gamepad.png" alt="">
+                <i class="fas fa-download"></i>
             </div>
             <div class="nk-feature-cont">
                 <h3 class="nk-feature-title"><a href="{{ route('download') }}">Download</a></h3>
@@ -25,7 +25,7 @@
     <div class="col-lg-4">
         <div class="nk-feature-1">
             <div class="nk-feature-icon">
-                <img src="assets/images/icon-gamepad-2.png" alt="">
+                <i class="fas fa-donate"></i>
             </div>
             <div class="nk-feature-cont">
                 <h3 class="nk-feature-title"><a href="{{ route('donasi') }}">Donasi</a></h3>

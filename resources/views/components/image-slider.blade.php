@@ -16,9 +16,5 @@
         <img src="{{ asset('assets/images/slide-4.jpg') }}" alt="" class="nk-image-slider-img"
             data-thumb="{{ asset('assets/images/slide-4-thumb.jpg') }}">
     </div>
-    <div class="nk-image-slider-item">
-        <img src="{{ asset('assets/images/slide-5.jpg') }}" alt="" class="nk-image-slider-img"
-            data-thumb="{{ asset('assets/images/slide-5-thumb.jpg') }}">
-    </div>
 </div>
 <!-- END: Image Slider -->
