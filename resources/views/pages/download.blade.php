@@ -7,13 +7,13 @@
 <table class="nk-table">
     <thead>
         <tr>
-            <th colspan="3">Client Project Blackshot</th>
+            <th colspan="3">Client</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th>Ukuran</th>
-            <th>Tanggal</th>
+            <th>Size</th>
+            <th>Date</th>
             <th class="text-center">Link</th>
         </tr>
         <tr>
@@ -43,20 +43,20 @@
 <table class="nk-table">
     <thead>
         <tr>
-            <th colspan="4">File Pendukung</th>
+            <th colspan="4">Additional</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th>Nama</th>
-            <th>Ukuran</th>
-            <th>Keterangan</th>
+            <th>Name</th>
+            <th>Size</th>
+            <th>Information</th>
             <th class="text-center">Link</th>
         </tr>
         <tr>
             <td>TSS</td>
             <td>2.4 GB</td>
-            <td>Sebagai Pendukung</td>
+            <td>In Addition To</td>
             <td class="text-center">
                 <a href="#" class="nk-btn nk-btn-lg nk-btn-rounded nk-btn-color-white">Download</a>
             </td>
@@ -64,7 +64,7 @@
         <tr>
             <td>TSS</td>
             <td>2.4 GB</td>
-            <td>Sebagai Pendukung</td>
+            <td>In Addition To</td>
             <td class="text-center">
                 <a href="#" class="nk-btn nk-btn-lg nk-btn-rounded nk-btn-color-white">Download</a>
             </td>
@@ -72,7 +72,7 @@
         <tr>
             <td>TSS</td>
             <td>2.4 GB</td>
-            <td>Sebagai Pendukung</td>
+            <td>In Addition To</td>
             <td class="text-center">
                 <a href="#" class="nk-btn nk-btn-lg nk-btn-rounded nk-btn-color-white">Download</a>
             </td>

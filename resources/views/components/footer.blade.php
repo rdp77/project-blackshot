@@ -4,11 +4,7 @@
     <div class="nk-copyright">
         <div class="container">
             <div class="nk-copyright-left">
-                PROJECT BLACKSHOT PRIVATED SERVER 2018 - <span id='copyrightYear'>
-                    <script>
-                        var d = new Date(); var n = d.getFullYear(); document.getElementById('copyrightYear').innerHTML = n;
-                    </script> <a href="javascript:void(0)">[-ANDROMAX
-                        STUDIO-]</a>
+                Stack Games - <a target="_blank" href="https://github.com/rdp77/stack-games">On Github</a>
             </div>
             <div class="nk-copyright-right">
                 <ul class="nk-social-links-2">

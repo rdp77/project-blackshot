@@ -8,7 +8,7 @@
             </div>
             <div class="nk-feature-cont">
                 <h3 class="nk-feature-title"><a data-toggle="modal" data-target="#modalRegister"
-                        style="cursor: pointer">Daftar</a></h3>
+                        style="cursor: pointer">Registration</a></h3>
             </div>
         </div>
     </div>
@@ -28,7 +28,7 @@
                 <i class="fas fa-donate"></i>
             </div>
             <div class="nk-feature-cont">
-                <h3 class="nk-feature-title"><a href="{{ route('donasi') }}">Donasi</a></h3>
+                <h3 class="nk-feature-title"><a href="{{ route('donasi') }}">Donation</a></h3>
             </div>
         </div>
     </div>
@@ -38,7 +38,7 @@
                 <div class="nk-count h2 mb-0">100</div>
             </div>
             <div class="nk-feature-cont text-center">
-                <h3 class="nk-feature-title text-main-1">Clans</h3>
+                <h3 class="nk-feature-title text-main-1">Total Clans</h3>
             </div>
         </div>
     </div>
@@ -58,7 +58,7 @@
                 <div class="nk-count h2 mb-0">2000</div>
             </div>
             <div class="nk-feature-cont text-center">
-                <h3 class="nk-feature-title text-main-1">Players Terdaftar</h3>
+                <h3 class="nk-feature-title text-main-1">Total Registered Player</h3>
             </div>
         </div>
     </div>

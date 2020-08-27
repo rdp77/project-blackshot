@@ -6,16 +6,16 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span class="ion-android-close"></span>
                 </button>
-                <h4 class="mb-0"><span class="text-main-1">Masuk</span> Akun</h4>
+                <h4 class="mb-0"><span class="text-main-1">Sign</span> In</h4>
                 <div class="nk-gap-1"></div>
                 <form action="#" class="nk-form text-white">
                     <div class="nk-gap"></div>
-                    <input type="email" value="" name="email" class=" form-control" placeholder="Email">
+                    <input type="email" value="" name="email" class="form-control" placeholder="Email">
                     <div class="nk-gap"></div>
                     <input type="password" value="" name="password" class="required form-control"
                         placeholder="Password">
                     <div class="nk-gap"></div>
-                    <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-white nk-btn-block">Masuk</a>
+                    <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-white nk-btn-block">Sign In</a>
                 </form>
             </div>
         </div>
@@ -30,18 +30,18 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span class="ion-android-close"></span>
                 </button>
-                <h4 class="mb-0"><span class="text-main-1">Lupa</span> Password</h4>
+                <h4 class="mb-0"><span class="text-main-1">Forgot</span> Password</h4>
                 <div class="nk-gap-1"></div>
                 <form action="#" class="nk-form text-white">
-                    Password dan email sebelumnya harus sama:
+                    The previous password and email must match:
                     <div class="nk-gap"></div>
                     <input type="email" value="" name="email" class=" form-control" placeholder="Email">
                     <div class="nk-gap"></div>
                     <input type="password" value="" name="password" class="required form-control"
-                        placeholder="Password lama">
+                        placeholder="Old password">
                     <div class="nk-gap"></div>
                     <input type="password" value="" name="password" class="required form-control"
-                        placeholder="Password baru">
+                        placeholder="New password">
                     <div class="nk-gap"></div>
                     <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-white nk-btn-block">Reset</a>
                 </form>
@@ -58,7 +58,7 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span class="ion-android-close"></span>
                 </button>
-                <h4 class="mb-0"><span class="text-main-1">Daftar</span> Akun</h4>
+                <h4 class="mb-0"><span class="text-main-1">Sign</span> Up</h4>
                 <div class="nk-gap-1"></div>
                 <form action="#" class="nk-form text-white">
                     <div class="nk-gap"></div>
@@ -68,9 +68,9 @@
                         placeholder="Password">
                     <div class="nk-gap"></div>
                     <input type="password" value="" name="password" class="required form-control"
-                        placeholder="Ulangi password">
+                        placeholder="Repeat password">
                     <div class="nk-gap"></div>
-                    <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-white nk-btn-block">Daftar</a>
+                    <a href="#" class="nk-btn nk-btn-rounded nk-btn-color-white nk-btn-block">Sign Up</a>
                 </form>
             </div>
         </div>

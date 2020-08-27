@@ -32,17 +32,17 @@
                     </li>
                     <li class=" nk-drop-item">
                         <a href="javascript:void(0)">
-                            Akun
+                            Account
                         </a>
                         <ul class="dropdown">
                             <li>
                                 <a data-toggle="modal" data-target="#modalLogin" style="cursor: pointer">
-                                    Masuk
+                                    Sign In
                                 </a>
                             </li>
                             <li>
                                 <a data-toggle="modal" data-target="#forgotPassword" style="cursor: pointer">
-                                    Lupa Password
+                                    Forgot Password
                                 </a>
                             </li>
                         </ul>
