@@ -1,10 +1,10 @@
 @extends('layouts.content')
 
-@section('title', __('Project Blackshot | Downloads'))
+@section('title', __('Stack Games | Downloads'))
 @section('breadcrumbs', __('Downloads'))
 @section('content')
 <!-- START: Table -->
-<table class="nk-table">
+<table class="nk-table table-responsive-lg">
     <thead>
         <tr>
             <th colspan="3">Client</th>
@@ -40,7 +40,7 @@
     </tbody>
 </table>
 <div class="nk-gap"></div>
-<table class="nk-table">
+<table class="nk-table table-responsive-lg">
     <thead>
         <tr>
             <th colspan="4">Additional</th>

@@ -1,6 +1,6 @@
 @extends('layouts.content')
 
-@section('title', __('Project Blackshot | Ranking Clan'))
+@section('title', __('Stack Games | Ranking Clan'))
 @section('breadcrumbs', __('Ranking Clan'))
 @section('content')
 <!-- START: Table -->

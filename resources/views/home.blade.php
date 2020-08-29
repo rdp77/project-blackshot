@@ -1,6 +1,6 @@
 @extends('layouts.default')
 
-@section('title', __('Project Blackshot'))
+@section('title', __('Stack Games'))
 @section('content')
 @include('components.image-slider')
 @include('components.information')
