@@ -3,11 +3,47 @@
 @section('title', __('Stack Games | Downloads'))
 @section('breadcrumbs', __('Downloads'))
 @section('content')
+<!-- START: Table -->
 <div class="align-center">
     <a href="#" class="nk-btn nk-btn-x4 nk-btn-rounded nk-btn-color-white">{{ __('Download Client') }}</a>
 </div>
 <div class="nk-gap"></div>
-<!-- START: Table -->
+<table class="nk-table table-responsive-lg">
+    <thead>
+        <tr>
+            <th colspan="3">Update Patch</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Size</th>
+            <th>Date</th>
+            <th class="text-center">Link</th>
+        </tr>
+        <tr>
+            <td>2.4 GB</td>
+            <td>11/12/2020</td>
+            <td class="text-center">
+                <a href="#" class="nk-btn nk-btn-lg nk-btn-rounded nk-btn-color-white">Download</a>
+            </td>
+        </tr>
+        <tr>
+            <td>2.0 GB</td>
+            <td>11/11/2020</td>
+            <td class="text-center">
+                <a href="#" class="nk-btn nk-btn-lg nk-btn-rounded nk-btn-color-white">Download</a>
+            </td>
+        </tr>
+        <tr>
+            <td>1.4 GB</td>
+            <td>11/10/2020</td>
+            <td class="text-center">
+                <a href="#" class="nk-btn nk-btn-lg nk-btn-rounded nk-btn-color-white">Download</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<div class="nk-gap"></div>
 <table class="nk-table table-responsive-lg">
     <thead>
         <tr>
