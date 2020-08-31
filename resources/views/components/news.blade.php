@@ -10,18 +10,14 @@
                     <div class="nk-news-box-item-img">
                         <img src="assets/images/post-1-sm.jpg" alt="Smell magic in the air. Or maybe barbecue">
                     </div>
-                    <img src="assets/images/post-1.jpg" alt="Smell magic in the air. Or maybe barbecue"
-                        class="nk-news-box-item-full-img">
-                    <h3 class="nk-news-box-item-title">Smell magic in the air. Or maybe barbecue</h3>
-                    <span class="nk-news-box-item-categories">
-                        <span class="bg-main-4">MMO</span>
-                    </span>
+                    <a href="/login" style="text-decoration: none">
+                        <h3 class="nk-news-box-item-title">Smell magic in the air. Or maybe barbecue</h3>
+                    </a>
                     <div class="nk-news-box-item-text">
                         <p>With what mingled joy and sorrow do I take up the pen to write to my dearest
                             friend! Oh, what a change between to-day and yesterday! Now I am friendless and
                             alone...</p>
                     </div>
-                    <a href="blog-article.html" class="nk-news-box-item-url">Read More</a>
                     <div class="nk-news-box-item-date"><span class="fa fa-calendar"></span> Sep 18, 2018
                     </div>
                 </div>

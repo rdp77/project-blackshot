@@ -1,5 +1,5 @@
 @extends('layouts.auth')
-@section('title', __('Panel Pengurus'))
+@section('title', __('Admin Dashboard'))
 
 @section('content')
 <form method="POST" action="{{ route('login') }}" class="needs-validation" novalidate="">
@@ -22,7 +22,7 @@
 
     <div class="form-group">
         <button type="submit" class="btn btn-primary btn-lg btn-block" tabindex="4">
-            {{ __('Masuk') }}
+            {{ __('Sign In') }}
         </button>
     </div>
 </form>

@@ -1,4 +1,6 @@
 {
     "/css/front.css": "/css/front.css",
-    "/js/all.js": "/js/all.js"
+    "/js/all.js": "/js/all.js",
+    "/css/auth.css": "/css/auth.css",
+    "/js/auth.js": "/js/auth.js"
 }

@@ -15,7 +15,7 @@ const mix = require("laravel-mix");
 mix.styles(
     [
         "resources/assets/frontend/css/bootstrap.min.css",
-        "resources/assets/frontend/css/main.css",
+        "resources/assets/frontend/css/main.css"
     ],
     "public/css/front.css"
 );
@@ -32,7 +32,41 @@ mix.scripts(
         "resources/assets/frontend/js/jquery.nanoscroller.min.js",
         "resources/assets/frontend/js/jquery-3.5.1.min.js",
         "resources/assets/frontend/js/main.js",
-        "resources/assets/frontend/js/init.js",
+        "resources/assets/frontend/js/init.js"
     ],
     "public/js/all.js"
+);
+
+// BackEnd Auth
+mix.styles(
+    [
+        "resources/assets/frontend/css/bootstrap.min.css",
+        "resources/assets/backend/css/style.css"
+    ],
+    "public/css/auth.css"
+);
+
+mix.scripts(
+    [
+        "resources/assets/frontend/js/all.js",
+        "resources/assets/frontend/js/v4-shims.js"
+    ],
+    "public/js/auth.js"
+);
+
+// BackEnd Auth
+mix.styles(
+    [
+        "resources/assets/frontend/css/bootstrap.min.css",
+        "resources/assets/backend/css/style.css"
+    ],
+    "public/css/back.css"
+);
+
+mix.scripts(
+    [
+        "resources/assets/frontend/js/all.js",
+        "resources/assets/frontend/js/v4-shims.js"
+    ],
+    "public/js/allback.js"
 );
