@@ -4,7 +4,7 @@
     <div class="nk-copyright">
         <div class="container">
             <div class="nk-copyright-left">
-                Stack Games - <a target="_blank" href="https://github.com/rdp77/stack-games">On Github</a>
+                Stack Games <a target="_blank" href="https://github.com/rdp77/stack-games">On Github</a>
             </div>
             <div class="nk-copyright-right">
                 <ul class="nk-social-links-2">

@@ -8,7 +8,7 @@
             </div>
             <div class="nk-feature-cont">
                 <h3 class="nk-feature-title"><a data-toggle="modal" data-target="#modalRegister"
-                        style="cursor: pointer">Registration</a></h3>
+                        style="cursor: pointer">{{ __('Registration') }}</a></h3>
             </div>
         </div>
     </div>
@@ -18,7 +18,7 @@
                 <i class="fas fa-download"></i>
             </div>
             <div class="nk-feature-cont">
-                <h3 class="nk-feature-title"><a href="{{ route('download') }}">Download</a></h3>
+                <h3 class="nk-feature-title"><a href="{{ route('download') }}">{{ __('Download') }}</a></h3>
             </div>
         </div>
     </div>
@@ -28,7 +28,7 @@
                 <i class="fas fa-donate"></i>
             </div>
             <div class="nk-feature-cont">
-                <h3 class="nk-feature-title"><a href="{{ route('donasi') }}">Donation</a></h3>
+                <h3 class="nk-feature-title"><a href="{{ route('donasi') }}">{{ __('Donation') }}</a></h3>
             </div>
         </div>
     </div>
@@ -38,7 +38,7 @@
                 <div class="nk-count h2 mb-0">100</div>
             </div>
             <div class="nk-feature-cont text-center">
-                <h3 class="nk-feature-title text-main-1">Total Clans</h3>
+                <h3 class="nk-feature-title text-main-1">{{ __('Total Clans') }}</h3>
             </div>
         </div>
     </div>
@@ -48,7 +48,7 @@
                 <div class="nk-count h2 mb-0">907</div>
             </div>
             <div class="nk-feature-cont text-center">
-                <h3 class="nk-feature-title text-main-1">Players Online</h3>
+                <h3 class="nk-feature-title text-main-1">{{ __('Players Online') }}</h3>
             </div>
         </div>
     </div>
@@ -58,7 +58,7 @@
                 <div class="nk-count h2 mb-0">2000</div>
             </div>
             <div class="nk-feature-cont text-center">
-                <h3 class="nk-feature-title text-main-1">Total Registered Player</h3>
+                <h3 class="nk-feature-title text-main-1">{{ __('Total Registered Player') }}</h3>
             </div>
         </div>
     </div>
